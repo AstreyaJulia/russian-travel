@@ -22,3 +22,4 @@
 2. Добавлен Normalize.css с [https://necolas.github.io/normalize.css/](https://necolas.github.io/normalize.css/);
 3. Подключен шрифт Inter;
 4. Семантическая разметка;
+5. Изображения;
