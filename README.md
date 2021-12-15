@@ -21,3 +21,4 @@
 1. Добавление файлов gitignore, nojekyll, editorconfig (из предыдущего спринта);
 2. Добавлен Normalize.css с [https://necolas.github.io/normalize.css/](https://necolas.github.io/normalize.css/);
 3. Подключен шрифт Inter;
+4. Семантическая разметка;
