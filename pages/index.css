@@ -1,0 +1,4 @@
+/* Vendor - normalize.css */
+@import url(../vendor/normalize.css);
+/* Global - page */
+@import url(../blocks/page/page.css);
