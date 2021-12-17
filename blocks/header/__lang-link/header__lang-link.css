@@ -9,7 +9,3 @@
   -o-transition: opacity 0.5s;
   transition: opacity 0.5s;
 }
-
-.header__lang-link:hover {
-  opacity: .8;
-}

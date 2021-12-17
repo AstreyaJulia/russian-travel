@@ -1,0 +1,12 @@
+.place {
+  margin-top: 80px;
+  color: #fff;
+  display: grid;
+  grid-template-columns: 460px minmax(min-content,max-content);
+  row-gap: 48px;
+  column-gap: 40px;
+}
+
+.place:first-of-type {
+  margin-top: 0;
+}

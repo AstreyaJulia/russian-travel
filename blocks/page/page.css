@@ -32,10 +32,8 @@
   -ms-text-size-adjust: 100%;
   -moz-text-size-adjust: 100%;
   font-family: "Inter", Arial, sans-serif;
-  color: #fff;
   background-color: #2A2C2F;
   width: 1280px;
   margin: 0 auto;
   min-height: 100%;
-  box-shadow: 0 0 15px 0 rgba(0, 1, 1, 0.2);
 }

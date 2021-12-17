@@ -1,0 +1,9 @@
+.places__paragraph {
+  font-size: 18px;
+  line-height: 163%;
+  margin: 0;
+}
+
+.places__paragraph:not(:first-of-type) {
+  margin-top: 26px;
+}
