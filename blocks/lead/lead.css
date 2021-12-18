@@ -2,3 +2,9 @@
   padding-top: 56px;
   color: #fff;
 }
+
+@media screen and (max-width: 1280px)  {
+  .lead {
+    padding-top: 48px;
+  }
+}
