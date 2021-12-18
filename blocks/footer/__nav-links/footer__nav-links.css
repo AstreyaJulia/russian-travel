@@ -4,3 +4,10 @@
   padding: 0;
   display: flex;
 }
+
+@media screen and (max-width: 768px) {
+  .footer__nav-links {
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+}
