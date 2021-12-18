@@ -13,16 +13,16 @@
   }
 }
 
-@media screen and (min-width: 425px) and (max-width: 1024px) {
+@media screen and (min-width: 768px) and (max-width: 1024px) {
   .photo-grid {
     grid-template-columns: repeat(2, 1fr);
     padding: 88px 24px 0;
   }
 }
 
-@media screen and (min-width: 320px) and (max-width: 425px) {
+@media screen and (min-width: 320px) and (max-width: 768px) {
   .photo-grid {
-    grid-template-columns: calc(100vw - 32px);
+    grid-template-columns: 100%;
     row-gap: 12px;
     padding: 64px 16px 0;
   }
