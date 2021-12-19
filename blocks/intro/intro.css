@@ -23,6 +23,6 @@
   .intro {
     padding-top: 64px;
     padding-left: 16px;
-    max-width: 288px;
+    max-width: 100%;
   }
 }
