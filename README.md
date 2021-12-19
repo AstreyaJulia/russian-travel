@@ -1,5 +1,7 @@
 # Учебный проект "Путешествие по России"
 
+[Страница проекта на GitHub Pages](https://astreyajulia.github.io/russian-travel/)
+
 ### Обзор
 * Описание
 * Использовано
