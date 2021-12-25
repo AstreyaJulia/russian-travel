@@ -6,13 +6,10 @@
   -webkit-transition: opacity 0.5s;
   -o-transition: opacity 0.5s;
   transition: opacity 0.5s;
+  color: #fff;
 }
 
-.header__lang-link:not(:first-of-type) {
-  margin-left: 18px;
-}
-
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .header__lang-link {
     font-size: 18px;
     line-height: 1.11;

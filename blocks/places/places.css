@@ -4,22 +4,22 @@
   color: #fff;
 }
 
-@media screen and (min-width: 1024px) and (max-width: 1280px) {
+@media screen and (max-width: 1279px) {
   .places {
     max-width: 928px;
   }
 }
 
-@media screen and (min-width: 768px) and (max-width: 1024px) {
+@media screen and (max-width: 1023px) {
   .places {
-    padding-top: 88px;
+    padding: 88px 0 90px;
     max-width: 720px;
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .places {
-    padding-top: 64px;
+    padding: 64px 0 66px;
     max-width: 100vw;
   }
 }

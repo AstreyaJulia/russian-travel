@@ -12,11 +12,16 @@
   -webkit-box-pack: center;
   -ms-flex-pack: center;
   justify-content: center;
-  width: 100%;
-  height: 100%;
+  max-width: 1184px;
+  min-height: 740px;
   color: #fff;
   text-decoration: none;
-  position: absolute;
-  left: 0;
-  top: 0;
+  position: relative;
+}
+
+@media screen and (max-width: 1279px) {
+  .cover__link {
+    max-width: 100vw;
+    min-height: calc(100vw / 1.6); /* соотношение сторон, высота меньше ширины в 1,6 раза*/
+  }
 }
