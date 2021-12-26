@@ -1,5 +1,5 @@
 .lead__picture {
-  margin-top: 64px;
+  margin: 64px auto 0;
   max-width: 984px;
   display: -webkit-box;
   display: -ms-flexbox;
