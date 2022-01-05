@@ -24,7 +24,7 @@
 
 ## Пошагово:
 
-#### Спринт 3 (13.12.2021 - ... ):
+#### Спринт 3 (13.12.2021 - 26.12.2021):
 
 1. Добавление файлов gitignore, nojekyll, editorconfig (из предыдущего спринта);
 2. Добавлен Normalize.css с [https://necolas.github.io/normalize.css/](https://necolas.github.io/normalize.css/);
