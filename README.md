@@ -14,6 +14,8 @@
 поток №39, группа "Purple"
 старт обучения по основной программе - 14.11.2021 года
 
+<img src="https://github.com/AstreyaJulia/russian-travel/blob/main/preview.png" alt="drawing" style="width:100%;"/>
+
 **Использовано**
 
 1. Браузерные стили сброшены через Normalize.css;
